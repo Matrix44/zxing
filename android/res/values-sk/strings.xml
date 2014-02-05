@@ -65,10 +65,10 @@
   <string name="msg_default_format">Formát</string>
   <string name="msg_default_meta">Metadáta</string>
   <string name="msg_default_mms_subject">Ahoj</string>
-  <string name="msg_default_status">Umiestnite čiarový kód do vnútra obdĺžnika hľadáčiku pre skenovanie.</string>
+  <string name="msg_default_status">Umiestnite čiarový kód do vnútra obdĺžnika hľadáčiku pre skenovanie</string>
   <string name="msg_default_time">Čas</string>
   <string name="msg_default_type">Typ</string>
-  <string name="msg_encode_contents_failed">Nie je možné zakódovať čiarový kód z poskytnutých údajov.</string>
+  <string name="msg_encode_contents_failed">Nie je možné zakódovať čiarový kód z poskytnutých údajov</string>
   <string name="msg_google_books">Google</string>
   <string name="msg_google_product">Google</string>
   <string name="msg_intent_failed">Ospravedlňujeme sa, požadovaná aplikácia nemohla byť spustená. Obsah čiarového kódu je možno neplatný.</string>
@@ -98,8 +98,8 @@
   <string name="preferences_decode_PDF417_title">PDF417 (β)</string>
   <string name="preferences_decode_QR_title">QR kódy</string>
   <string name="preferences_device_bug_workarounds_title">Možné chyby zariadenia</string>
-  <string name="preferences_disable_barcode_scene_mode_title">Bez scénického režimu čiarového kódu</string>
-  <string name="preferences_disable_continuous_focus_summary">Použiť iba štandardné zaostrenie.</string>
+  <string name="preferences_disable_barcode_scene_mode_title">Bez scénického režimu</string>
+  <string name="preferences_disable_continuous_focus_summary">Použiť iba štandardné zaostrenie</string>
   <string name="preferences_disable_continuous_focus_title">Bez nepretržitého zaostrovania</string>
   <string name="preferences_disable_exposure_title">Bez expozície</string>
   <string name="preferences_disable_metering_title">Bez úpravy jasu</string>
@@ -109,7 +109,7 @@
   <string name="preferences_front_light_summary">Použiť prisvetlenie</string>
   <string name="preferences_front_light_title">Použiť predné svetlo</string>
   <string name="preferences_general_title">Všeobecné nastavenia</string>
-  <string name="preferences_invert_scan_summary">Skenovať biele čiarové kódy na čiernom pozadí. Nie je k dispozícii na všetkých zariadeniach.</string>
+  <string name="preferences_invert_scan_summary">Skenovať biele čiarové kódy na čiernom pozadí. Nie je k dispozícii na všetkých zariadeniach</string>
   <string name="preferences_invert_scan_title">Invertované skenovanie</string>
   <string name="preferences_name">Nastavenia</string>
   <string name="preferences_play_beep_title">Zvuková signalizácia</string>
